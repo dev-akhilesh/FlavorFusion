@@ -2,6 +2,34 @@
 
 The "FlavorFusion" app is a dynamic and user-friendly web application built using React and styled with Tailwind CSS. This app provides a seamless experience for exploring and discovering various food dishes. It offers the following key features:
 
+
+## Screenshots
+
+### Desktop View
+
+![FlavorFusion Desktop View](./src/images/home.png)
+![FlavorFusion Desktop View](./src/images/solo.png)
+
+### Mobile View
+<p align="center">
+  <img src="./src/images/mobile-home.png" alt="FlavorFusion Mobile View" width="300">
+</p>
+<p align="center">
+  <img src="./src/images/mobile-solo.png" alt="FlavorFusion Mobile View" width="300">
+</p>
+
+
+
+## Technologies Used
+
+- React:
+- Tailwind CSS: 
+- React Router: 
+- Vercel
+
+
+## Features
+
 1. **Infinite Scroll with Show More Button:** The app employs an infinite scroll feature, allowing users to explore a wide range of food dishes effortlessly. As users scroll through the list, the app automatically loads more content when the "Show More" button is clicked. 
 
 2. **Individual Dish Pages:** Each food dish is showcased on its own dedicated page. Users can click on a dish to access detailed information, including nutritional facts and a comprehensive list of ingredients. This approach provides a comprehensive view of the selected dish's attributes.

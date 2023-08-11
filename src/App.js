@@ -5,6 +5,7 @@ import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import RecipeDetail from './pages/RecipeDetail';
 import FavoritesPage from './pages/FavoritesPage'; // Import the FavoritesPage component
+import NotFound from './pages/NotFound';
 
 function Layout() {
   return (
@@ -23,7 +24,8 @@ function App() {
         <Route path='/' element={<Layout />}>
           <Route index element={<Home />} />
           <Route path='recipes/:id' element={<RecipeDetail />} />
-          <Route path='favorites' element={<FavoritesPage />} /> {/* Add this route */}
+          <Route path='favorites' element={<FavoritesPage />} />
+          <Route path='*' element={<NotFound />} /> 
         </Route>
       </Routes>
     </div>

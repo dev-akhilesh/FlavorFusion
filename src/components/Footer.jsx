@@ -7,7 +7,7 @@ const Footer = () => {
             <div className="container mx-auto px-20 lg:px-20 py-20 flex flex-col gap-10 md:flex-row justify-between border-t border-slate-800">
                 <div className="flex">
                     <p className="font-bold text-center">
-                        Flavor<span className="text-green-500 text-xl">Verse</span>
+                        Flavor<span className="text-green-500 text-xl">Fusion</span>
                     </p>
                 </div>
 

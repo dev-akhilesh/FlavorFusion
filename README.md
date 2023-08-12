@@ -43,4 +43,24 @@ The "FlavorFusion" app is a dynamic and user-friendly web application built usin
 6. **Responsive Design:** The app is designed with a responsive layout to ensure a seamless experience across various devices, including mobile phones and tablets. Users can access and interact with the app's features and content regardless of their screen size.
 
 
+## Run Locally
+
+Clone the project
+
+```bash
+https://github.com/dev-akhilesh/FlavorFusion.git
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
 The "FlavorFusions" app delivers a delightful and informative culinary journey, offering users the ability to explore, learn, and make well-informed choices about their food preferences. Whether users are looking for nutritional insights, ingredient details, or new dishes to try, the app provides a user-friendly interface that caters to their needs and preferences.

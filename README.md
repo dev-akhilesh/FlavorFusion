@@ -22,9 +22,9 @@ The "FlavorFusion" app is a dynamic and user-friendly web application built usin
 
 ## Technologies Used
 
-- React:
-- Tailwind CSS: 
-- React Router: 
+- React
+- Tailwind CSS
+- React Router
 - Vercel
 
 
